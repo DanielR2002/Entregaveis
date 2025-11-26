@@ -29,7 +29,6 @@ O objetivo é aprofundar o domínio sobre como:
 A lista de exercícios aborda os seguintes temas principais:
 
 | Exercício |
-| :---: | :---: | :--- | :---: |
 | **01** | Min-Heap / Max-Heap | Uso básico e como simular um Max-Heap.
 | **02** | Mesclagem de Listas | Mesclar **K** listas ordenadas em uma única lista ordenada de forma eficiente.
 | **03** | Estrutura de Prioridade Dupla | Usar dois Heaps (Min e Max) para manter um intervalo de dados balanceado.
